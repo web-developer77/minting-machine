@@ -1,0 +1,29 @@
+.roadmap_item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.percentage {
+  color: yellow;
+}
+.roadmap_text {
+  /* text-decoration: line-through; */
+}
+.roadMap_img_container {
+  width: 90%;
+  height: 60%;
+  background-color: yellow;
+  border-radius: 5px;
+  margin-top: 5rem;
+}
+.roadMap_img {
+  width: 100%;
+}
+@media only screen and (min-width: 600px) {
+  .roadMap_img_container {
+    width: 300px;
+  }
+  .roadMap_img {
+    width: 300px;
+  }
+}

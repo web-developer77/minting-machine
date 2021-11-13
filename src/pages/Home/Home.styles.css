@@ -1,0 +1,69 @@
+.home_container {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  /* margin: 2rem 0; */
+}
+
+.header_hero {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.homeRow_2_Right {
+  margin-top: 7rem;
+  font-size: 1rem;
+  font-weight: 200;
+  font-style: italic;
+  opacity: 0.8;
+}
+.gif {
+  width: 400px;
+  object-fit: contain;
+  margin: 2rem 0;
+}
+.p_title {
+  font-style: italic;
+}
+.toiletImg {
+  width: 200px;
+  object-fit: contain;
+  margin: 2rem 0;
+  margin-left: 1rem;
+}
+
+.cards_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 2rem 0;
+}
+.btns {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+.home_address {
+  text-align: center;
+}
+.home_address span {
+  color: yellow;
+  margin-left: 5px;
+}
+@media only screen and (max-width: 600px) {
+  .gif {
+    height: 300px;
+    width: 300px;
+  }
+  .cards_container {
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 1rem;
+  }
+  .home_address,
+  .home_address span {
+    font-size: 0.6rem;
+  }
+}

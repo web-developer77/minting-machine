@@ -1,0 +1,47 @@
+.BuyAnAPE_container {
+  background-color: rgb(255, 255, 9);
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border-radius: 5px;
+  margin: 3rem 0;
+  padding: 1rem;
+}
+.btn {
+  background-color: black;
+  color: yellow;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  padding: 1rem;
+  width: 250px;
+}
+.btn:hover {
+  background-color: white;
+  color: black;
+}
+
+.BuyAnAPE_p {
+  width: 30%;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.BuyAnAPE_title {
+  font-style: italic;
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .BuyAnAPE_container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    margin: 1rem 1rem 1rem 0;
+  }
+  .btn {
+    width: auto;
+  }
+  .BuyAnAPE_p {
+    width: auto;
+  }
+}

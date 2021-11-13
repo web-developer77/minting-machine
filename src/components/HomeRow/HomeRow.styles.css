@@ -1,0 +1,32 @@
+.homeRow_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 2rem 0;
+}
+.homeRow_left {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+.homeRow_right {
+  width: 50%;
+  margin-left: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .homeRow_container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .homeRow_left {
+    width: 100%;
+  }
+  .homeRow_right {
+    width: 100%;
+    margin-left: 0;
+  }
+}
