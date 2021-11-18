@@ -1,7 +1,7 @@
 import HomeRow from "../../components/HomeRow/HomeRow.component";
 import "./Home.styles.css";
-import mysteryAPE from "../../imgs/mystery-ape.gif";
-import toilet from "../../imgs/toilet.png";
+import mysteryAPE from "../../imgs/Arrow/ARROW_01.png";
+import toilet from "../../imgs/Sponsor/DeFiHood_Sponsor_Etherial Art.png";
 import styled from "styled-components";
 import Pharagraph from "../../components/Paragraph/Paragraph.component";
 import ImgsContainer from "../../components/ImgsContainer/ImgsContainer.component";

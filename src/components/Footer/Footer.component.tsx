@@ -1,4 +1,4 @@
-import logo from "../../imgs/BASC_Logo.png";
+import logo from "../../imgs/Full/PNG/Galaxy03.png";
 import "./footer.styles.css";
 
 import { AiFillYoutube } from "react-icons/ai";

@@ -1,5 +1,5 @@
 import "./Navbar.styles.css";
-import logo from "../../imgs/BASC_Logo.png";
+import logo from "../../imgs/Full/PNG/Galaxy03.png";
 import { AiFillYoutube } from "react-icons/ai";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { FaDiscord } from "react-icons/fa";

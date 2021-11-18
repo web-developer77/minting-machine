@@ -25,11 +25,11 @@ const FAIR_DISTRIBUTION: React.FC<Props> = ({ leftItem, rightItem }) => {
     <div className="">
       <Grid container spacing={3}>
         <Grid item xs={12} sm={8}>
-          {/* <Pharagraph title={title1} paragraph={p1} /> */}
+          <Pharagraph title={title1} paragraph={p1} />
           {leftItem}
         </Grid>
         <Grid item xs={12} sm={4}>
-          {/* <ImgsContainer imgs={imgs} /> */}
+          <ImgsContainer imgs={imgs} />
           {rightItem}
         </Grid>
       </Grid>

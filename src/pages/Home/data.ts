@@ -1,21 +1,21 @@
 // paragraph1
-import ape1 from "../../imgs/ape1.png";
-import ape2 from "../../imgs/ape2.png";
-import ape3 from "../../imgs/ape3.png";
-import ape4 from "../../imgs/ape4.png";
-import icon1 from "../../imgs/icon1.png";
-import icon2 from "../../imgs/icon2.png";
-import icon3 from "../../imgs/icon3.png";
-import icon4 from "../../imgs/icon4.png";
-import icon5 from "../../imgs/icon5.png";
+import ape1 from "../../imgs/Full/New/Robin_NFT_ New01.png";
+import ape2 from "../../imgs/Full/New/Robin_NFT_ New02.png";
+import ape3 from "../../imgs/Full/New/Robin_NFT_ New03.png";
+import ape4 from "../../imgs/Full/New/Robin_NFT_ New04.png";
+import icon1 from "../../imgs/Full/New/Robin_NFT_ New19.png";
+import icon2 from "../../imgs/Full/New/Robin_NFT_ New20.png";
+import icon3 from "../../imgs/Full/New/Robin_NFT_ New21.png";
+import icon4 from "../../imgs/Full/New/Robin_NFT_ New22.png";
+import icon5 from "../../imgs/Full/New/Robin_NFT_ New23.png";
 import img1 from "../../imgs/img1.png";
 import img2 from "../../imgs/img2.png";
 import img3 from "../../imgs/img3.png";
 import img4 from "../../imgs/img4.png";
-import team1 from "../../imgs/team1.jpg";
-import team2 from "../../imgs/team2.jpg";
-import team3 from "../../imgs/team3.jpg";
-import team4 from "../../imgs/team4.jpg";
+import team1 from "../../imgs/Full/New Black/01.png";
+import team2 from "../../imgs/Full/New Black/02.png";
+import team3 from "../../imgs/Full/New Black/03.png";
+import team4 from "../../imgs/Full/New Black/04.png";
 
 export const cardsArr = [
   {

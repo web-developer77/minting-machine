@@ -1,4 +1,4 @@
-import header_hero from "./imgs/header_hero.jpg";
+import backgroundImg from "./imgs/Web/WEB_3840x2160.png";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar.component";
 import Home from "./pages/Home/Home.page";
@@ -97,7 +97,7 @@ function App() {
                 homeRef={homeRef}
               />
               <img
-                src={header_hero}
+                src={backgroundImg}
                 alt="header_hero"
                 className="header_hero"
               />
