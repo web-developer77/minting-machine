@@ -1,5 +1,5 @@
 import "./Navbar.styles.css";
-import logo from "../../imgs/Full/PNG/Galaxy03.png";
+import logo from "../../imgs/logo.jpeg";
 import { AiFillYoutube } from "react-icons/ai";
 import { AiOutlineInstagram } from "react-icons/ai";
 import { FaDiscord } from "react-icons/fa";
@@ -47,7 +47,7 @@ const Navbar: React.FC<Props> = ({
         <ConnectButton />
         <div className="routes_list ">
           <p className="mr_m route_item" onClick={() => scrollToBuyAnApeRef()}>
-            buy an ape
+            buy a hood
           </p>
           <p className="mr_m route_item" onClick={() => scrollToRoadMap()}>
             roadmap
@@ -83,7 +83,7 @@ const Navbar: React.FC<Props> = ({
               className="mr_m route_item"
               onClick={() => scrollToBuyAnApeRef()}
             >
-              buy an ape
+              buy a hood
             </p>
             <p className="mr_m route_item" onClick={() => scrollToRoadMap()}>
               roadmap

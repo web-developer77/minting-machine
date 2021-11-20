@@ -5,8 +5,9 @@
   margin: 2rem 0;
 }
 .footer_logo {
-  width: 100px;
+  width: 150px;
   height: 100px;
+  filter: invert(1);
 }
 .footer_input_container {
   display: flex;

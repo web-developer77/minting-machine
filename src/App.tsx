@@ -1,4 +1,4 @@
-import backgroundImg from "./imgs/Web/WEB_3840x2160.png";
+import backgroundImg from "./imgs/nft logo.jpeg";
 import "./App.css";
 import Navbar from "./components/Navbar/Navbar.component";
 import Home from "./pages/Home/Home.page";

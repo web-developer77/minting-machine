@@ -1,9 +1,9 @@
-import "./Roadmap.styles.css";
-import { Grid } from "@material-ui/core";
-import { roadMapData } from "../../pages/Home/data";
-import RoadmapItem from "./RoadmapItem.component";
-import shirt from "../../imgs/shirt.png";
-import HomeRow from "../HomeRow/HomeRow.component";
+import "./Roadmap.styles.css"
+import { Grid } from "@material-ui/core"
+import { roadMapData } from "../../pages/Home/data"
+import RoadmapItem from "./RoadmapItem.component"
+import roadmap from "../../imgs/Marketing/Pathway.png"
+import HomeRow from "../HomeRow/HomeRow.component"
 interface Props {}
 
 const Roadmap: React.FC<Props> = ({}) => {
@@ -22,21 +22,10 @@ const Roadmap: React.FC<Props> = ({}) => {
         </Grid>
       </Grid> */}
 
-      <HomeRow
-        leftItem={
-          <div className="roadMapData_container">
-            {roadMapData.map((i, n) => (
-              <RoadmapItem key={n} text={i.text} percentage={i.percentage} />
-            ))}
-          </div>
-        }
-        rightItem={
-          <div className="roadMap_img_container">
-            {/* <img src={shirt} alt="" className="roadMap_img" /> */}
-          </div>
-        }
-      />
+      <div className="">
+        <img src={roadmap} alt="" className="roadMap_img" />
+      </div>
     </div>
-  );
-};
-export default Roadmap;
+  )
+}
+export default Roadmap

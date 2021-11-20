@@ -1,4 +1,4 @@
-import logo from "../../imgs/Full/PNG/Galaxy03.png";
+import logo from "../../imgs/logo.jpeg";
 import "./footer.styles.css";
 
 import { AiFillYoutube } from "react-icons/ai";

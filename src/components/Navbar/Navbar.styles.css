@@ -35,7 +35,10 @@
   height: 12vh;
   object-fit: contain;
   cursor: pointer;
+  width: 150px;
+  filter: invert(1);
 }
+
 .nav_icons {
   /* margin-left: 1rem; */
 }

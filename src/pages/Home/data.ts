@@ -19,11 +19,11 @@ import team4 from "../../imgs/Full/New Black/04.png";
 
 export const cardsArr = [
   {
-    text: "5,000 Probably-rare Bored Ape tokens",
+    text: "5,000 Probably-rare Hood tokens",
     img: icon1,
   },
   {
-    text: "Fair Launch, fair distribution: All apes cost 1 SOL",
+    text: "Fair Launch, fair distribution: All Hood cost 1 SOL",
     img: icon2,
   },
   {
@@ -61,7 +61,7 @@ export const roadMapData = [
     percentage: "70%",
   },
   {
-    text: "Release of Land of the Apes game.",
+    text: "Release of Land of the Hood game.",
     percentage: "100%",
   },
 ];
@@ -70,28 +70,25 @@ export const imgs: string[] = [ape1, ape2, ape3, ape4];
 export const imgsArr2: string[] = [img1, img2, img3, img4];
 export const teamImgs: string[] = [team1, team2, team3, team4];
 export const p1: [String] = [
-  "BASC is a collection of 5,000 (Not) Bored Ape NFTs—unique digital collectibles living on the Solana blockchain. Your (Not) Bored Ape (does not) double as a Sol Club membership card however, will grant you access to a private lounge on our discord channel. The future will bring a play-to-earn ‘The Land of the Apes’ metaverse game.",
+  "we are helping artist from local communities to enter the world of NFTs providing education and the necessary tools to bring their art (pics and music) into our shop and generate royalties thanks to smart contracts",
 ];
 // p2
 export const p2: String[] = [
-  "There are no bonding curves here, unfortunately. Buying a Bored Sol Ape costs 1 SOL. There are no price tiers; and membership costs are totally (not) free.",
+  " 50% of royalties to Etherial VGA FoundationVision is to award 200,000 Scholarships in Crypto play-to-earn Gaming (Axie Infinity +more)",
 ];
 export const p3: String[] = [
-  "Each Bored Ape is unique and is (not) programmatically generated from over 170 possible traits (in fact, it’s 280 traits), including expression, headwear, clothing, hats and more. All apes are ‘sick’ some with the “vid” but some are rarer than others.",
-  "Purchasing an ape costs 1 SOL.",
+  "DeFiHood is a NFT-DeFi based project aiming to help 200,000 families with our vision to provide scholarships in blockchain based projects starting with Axie Infinity and more to come in collaboration with Etherial VGA. We are currently a Solana based project. Our NFTs are very crafted with several details. We have made sure that our NFTs have distinctive characteristics with slight glimpse of characters loved among the people. We have so much planned for our community- DAO, digital real estate access, etc and for that we need a constructive community which support us and give life to our project. Our entire team- from community managers to developers, all are working very hard. We need an engaged community and we will do all possible to make this project a success as you know quality takes time. We want to expand this universe and for support we are relying on you! We want to thank all of our supporters. If you like DeFiHood, we have a lot of ideas for the roadmap as well as some delicious surprises.",
 ];
 export const p4: String[] = [
-  "When you buy a Bored Ape, you’re not simply buying an avatar or a probably-rare piece of art. You are (not) gaining membership access to a club whose benefits and offerings will increase over time. Your Bored Ape can serve as your digital identity, and open digital doors for you.",
+  "Holders also get VIP access to digital real estate listings, future drops, cypto influencers NFT also serves as ticket to our IRL event in Tulum once a year with DJs such as Camila Wolf, AVACADO & Almodovar sponsored by redbull",
 ];
 export const p5: String[] = [
-  "The ‘LAND OF THE APES’ metaverse game is a long term vision of this project.",
-  "Each ape-holder will be able to play in the land of the apes to help win tangible gifts and unique NFTs.",
-  "We're pretty sure it's going to be full of big dicks hunting tight vaginas",
+  "30% of Royalties directed to Token Creation $ARROW (distributed to holders with deflatory features) and development of DeFiHood metaverse decided by DAO",
 ];
 export const p6: String[] = [
   "We’re in this for a bit of fun, but this could be the next big SOL NFT.",
   "We’ve set the following objectives.",
 ];
 export const p7: String[] = [
-  "Here are some helpful tools created by the Bored Ape Yacht Club community. Please note that these are unofficial in nature. Every assignment of an ape's overall value or rarity is inherently subjective.",
+  "Here are some helpful tools created by the DEFI HOOD Yacht Club community. Please note that these are unofficial in nature. Every assignment of an hood's overall value or rarity is inherently subjective.",
 ];
